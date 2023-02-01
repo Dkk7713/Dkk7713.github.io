@@ -13,8 +13,9 @@ body {
 nav {
     background: rgb(219, 216, 30);
    margin: 0 auto;
+   margin-bottom: 20px;
     display: flex;
-    padding: 10px;
+    padding: 10px; 
 }
 h1 {
     display: flex;
